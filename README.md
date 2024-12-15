@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anas Khan @AnasifyTech
+- 👋 Hi, I’m Anas Khan @Anasify
 - 👀 I’m interested in SAAS, Web Development, etc
 - 🌱 I’m currently pursuing Btech in CSE AI/ML.
 - 💞️ I’m looking to collaborate on NEW TECH IDEAS
