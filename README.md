@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anas Khan @Anasify
-- 👀 I’m interested in SAAS, Web Development, etc
-- 🌱 I’m currently pursuing Btech in CSE AI/ML.
-- 💞️ I’m looking to collaborate on NEW TECH IDEAS
-- 📫 How to reach me theanasify@gmail.com
-- 😄 Pronouns: Anas...☘️
+- 👀 I’m interested in SAAS, AI Tech, Web Development, etc
+- 🌱 I’m currently pursuing Btech in CSE AI/ML.(1st year)
+- 📫 How to reach me anaskhanbhopal123@gmail.com
+- 😄 Pronouns: Anas
 - ⚡ I'm a Student
